@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(22, 22, 22);
+}
+p{
+    color: aliceblue;
+}
+td{
+    text-align: center;
+}
+h2{
+    color: aliceblue;
+}
+h3{
+    color: aliceblue;
+}
+.list-group{
+    a:link {
+        color: aliceblue;
+        background-color: transparent;
+        text-decoration: none;
+      }
+      
+      a:visited {
+        color: azure;
+        background-color: transparent;
+        text-decoration: none;
+      }
+      
+      a:hover {
+        color: lightblue;
+        background-color: transparent;
+        text-decoration: underline;
+      }
+      
+      a:active {
+        color: beige;
+        background-color: transparent;
+        text-decoration: underline;
+      }
+}
